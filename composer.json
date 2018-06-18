@@ -1,0 +1,14 @@
+{
+  "name" : "redisRushBuy",
+  "version" : "1.0",
+  "require" : {
+    "catfan/medoo" : "v1.5.4",
+    "monolog/monolog": "1.2.*",
+    "psr/log": "1.0.2"
+  },
+  
+  "repositories" : [ {
+    "type": "composer",
+    "url": "https://packagist.phpcomposer.com"
+  } ]
+}
